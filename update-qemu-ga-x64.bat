@@ -4,3 +4,4 @@ bin\wget.exe -q --no-check-certificate https://fedorapeople.org/groups/virt/virt
 echo I- Moving qemu-ga-x64.msi to amd64 folder
 move qemu-ga-x64.msi amd64
 exit
+exit
