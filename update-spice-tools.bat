@@ -4,3 +4,4 @@ bin\wget.exe -q --no-check-certificate http://www.spice-space.org/download/windo
 echo I- Moving spice-guest-tools-0.100.exe to multiarch folder
 move spice-guest-tools-0.100.exe multiarch
 exit
+exit
