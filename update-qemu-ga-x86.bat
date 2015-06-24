@@ -4,3 +4,4 @@ bin\wget.exe -q --no-check-certificate https://fedorapeople.org/groups/virt/virt
 echo I- Moving qemu-ga-x86.msi to x86 folder
 move qemu-ga-x86.msi x86
 exit
+exit
